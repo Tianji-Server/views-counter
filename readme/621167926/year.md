@@ -1,7 +1,7 @@
 ## [🔙 views-counter](https://github.com/Tianji-Server/views-counter)
 
-### :octocat: [QuickShop-Reremake](https://github.com/Tianji-Server/QuickShop-Reremake)
-![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/graph/475471668/large/year.png)
+### :octocat: [Folia](https://github.com/Tianji-Server/Folia)
+![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/graph/621167926/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/svg/475471668/badge.svg)](https://github.com/Tianji-Server/views-counter/blob/master/readme/475471668/week.md)
+[![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/svg/621167926/badge.svg)](https://github.com/Tianji-Server/views-counter/blob/master/readme/621167926/week.md)
 ```readme
-[![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/svg/475471668/badge.svg)](https://github.com/Tianji-Server/views-counter/blob/master/readme/475471668/week.md)
+[![Image of views-counter](https://github.com/Tianji-Server/views-counter/blob/master/svg/621167926/badge.svg)](https://github.com/Tianji-Server/views-counter/blob/master/readme/621167926/week.md)
 ```
 ### Header
-# QuickShop-Reremake [<img alt="Image of views-counter" src="https://github.com/Tianji-Server/views-counter/blob/master/graph/475471668/small/year.png" height="20">](https://github.com/Tianji-Server/views-counter/blob/master/readme/475471668/year.md)
+# Folia [<img alt="Image of views-counter" src="https://github.com/Tianji-Server/views-counter/blob/master/graph/621167926/small/year.png" height="20">](https://github.com/Tianji-Server/views-counter/blob/master/readme/621167926/year.md)
 ```readme
-# QuickShop-Reremake [<img alt="Image of views-counter" src="https://github.com/Tianji-Server/views-counter/blob/master/graph/475471668/small/year.png" height="20">](https://github.com/Tianji-Server/views-counter/blob/master/readme/475471668/year.md)
+# Folia [<img alt="Image of views-counter" src="https://github.com/Tianji-Server/views-counter/blob/master/graph/621167926/small/year.png" height="20">](https://github.com/Tianji-Server/views-counter/blob/master/readme/621167926/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
